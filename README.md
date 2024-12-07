@@ -52,7 +52,9 @@ module.exports = {
 13. Add index.php
 
 ### Add CSS 
+```
 <link rel="stylesheet" href="css/tailwind-output.css">
+```
 
 ### Run Loacal Host
 14. http://localhost/my-project/public/index.php
